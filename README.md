@@ -16,6 +16,7 @@ foi recriar esse jogo nostálgico da infância de varias pessoas mundo a fora.
         Figure 1 - exemplo de gameplay.
     </h6>  
 </div>
+
 # <a name=index>Indice📚</a>
 - [**O que o jogo possui?**](#o_que_o_jogo_possui)
 - [**Controles**](#controles)
