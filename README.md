@@ -10,13 +10,12 @@ foi recriar esse jogo nostálgico da infância de varias pessoas mundo a fora.
 </p>
 
 <div align="center">
-    <img src="./src/images/gameplay.png" width="600">
+    <img src="./src/images/gameplay.gif" width="600">
     <br>
     <h6>
         Figure 1 - exemplo de gameplay.
     </h6>  
 </div>
-
 # <a name=index>Indice📚</a>
 - [**O que o jogo possui?**](#o_que_o_jogo_possui)
 - [**Controles**](#controles)
@@ -58,6 +57,14 @@ Você tambem pode passar o caminho completo para as musicas, como no exemplo aba
 ```
 
 # **<a name=controles>🕹️🎮 Controles 🎮🕹️</a>** <h6>[voltar ao indice](#index)</h6>
+
+<div align="center">
+    <img src="./src/images/gameplay.png" width="600">
+    <br>
+    <h6>
+        Figure 1 - exemplo telas.
+    </h6>  
+</div>
 
 Use :arrow_left:, :arrow_right:, :arrow_up:, :arrow_down:, <kbd>A</kbd>, <kbd>S</kbd>,<kbd>W</kbd> e <kbd>Z</kbd> para mover a peça. Tambem é possivel segurar a tecla para mover a peça de forma mais rápida.
 
